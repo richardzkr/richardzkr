@@ -9,8 +9,9 @@
 ### 👨🏼‍💻 Me as a professional
 
 - I work as a front-end developer since 2007
-- I owned a business for 7 years, making UX, Graphic Design, Websites in Wordpress
+- I owned a business for 7 years, working with UX/UI, Graphic Design, Wordpress
 - I'm a SEO specialist making more than 15 companies reach #1 page in Google with the keywords of their choice
+- I'm always excited about websites performance
 - I'm currently working in a Startup as a Marketer/Growth Hacker (and also taking care of the company's blog and websites)
 - I like to study front-end when I have time
 

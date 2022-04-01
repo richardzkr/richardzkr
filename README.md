@@ -36,8 +36,9 @@
 
 ### 😜 Me as a human
 
-- 👾 I like to play PC games
-- 🎼 I'm a DJ when opportunities come
-- 🏕 I like adventures in the wild, camping, fishing
 - 🍺 I love beer
+- 🎼 I'm a DJ when opportunities come
+- 👾 I like to play PC games
+- 🏕 I like adventures in the wild, camping, fishing
+
 

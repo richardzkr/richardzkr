@@ -42,4 +42,12 @@
 - 👾 I like to play PC games
 - 🏕 I like adventures in the wild, camping, fishing
 
+---
+
+### 💻 Some of my projects
+
+- [Webeats](https://webeats.com.br "My Company Website")
+- [Pure Vitality Club](https://purevitality.club "Project focused on Health and Fitness")
+- [Planeta Plug](https://planetaplug.com.br "Project focused on Technology Devices")
+
 

@@ -31,10 +31,6 @@
 
 ---
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardzkr&show_icons=true&theme=blue-green)![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richardzkr&theme=blue-green)
-
----
-
 ### 😜 Me as a human
 
 - 🍺 I love beer
